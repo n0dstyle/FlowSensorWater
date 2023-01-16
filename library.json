@@ -1,0 +1,23 @@
+{
+    "name": "FlowSensorWater",
+    "version": "1.0.0",
+    "description": "Cacluclate water",
+    "keywords": "water, YFS201, sensor",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/n0dstyle/FlowSensorWater"
+    },
+    "authors":
+    [
+      {
+        "name": "water",
+        "email": "n0dstyle777@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {},
+    "frameworks": ["arduino"],
+    "platforms": "*"
+  }
